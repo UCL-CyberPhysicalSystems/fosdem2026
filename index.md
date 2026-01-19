@@ -19,9 +19,9 @@ Title of the slides: Please add the title
 
 <div class="footer">
 
-<span class="dim-text" style="&quot;text-align:left;'">Q4-2025
-[(grid-worms-animation 2023 by
-saforem2)](https://github.com/saforem2/grid-worms-animation/)</span>
+<span class="dim-text" style="&quot;text-align:left;'">Q1-2026
+[(web-animations 2025 by
+mxochicale)](https://mxochicale.github.io/web-animations/)</span>
 
 </div>
 
