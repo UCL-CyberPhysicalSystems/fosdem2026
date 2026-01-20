@@ -6,14 +6,17 @@ Miguel Xochicale
 
 <span style="color:#939393; font-size:1.75em; text-align:left; display:block;">
 
-Title of the slides: Please add the title
+Modernizing ROS 2 Skills:  
+Hacking and Orchestrating Cloud Brains,  
+Physical Sensors, and the Network
 
 </span>
 
 <span style="padding-bottom: 0.25rem;"><br> </span>  
-[](http://name-surname.github.io/) Name Surname  
+[](http://name-surname.github.io/) CEGE & ARC Teams
+
 <span style="font-size:0.45em;"><span style="border-bottom: 0.5px solid #00ccff;">[
-`github-link-slides`](https://github.com/github-link-slides)</span></span>
+`slides`](https://ucl-cyberphysicalsystems.github.io/fosdem2026/)</span></span>
 
 </div>
 
@@ -35,15 +38,15 @@ mxochicale)](https://mxochicale.github.io/web-animations/)</span>
 
 # Overview
 
-- [Section title 1](#sectag_title_1)
-- [Section title 2](#sectag_title_2) <!--  Comments -->
+- [Introduction](#Introduction)
+- [UCL Infrastructure](#ucl-nfrastructure) <!--  Comments -->
   <!--  * [Open-Source Software in Healthcare](#sec-ossh) -->
 
 <!-- *********************** NEW SLIDE *********************** -->
 
-# Section title 1
+# Introduction
 
-Subsection title
+Modernizing ROS 2 Skills
 
 <div class="notes">
 
@@ -51,15 +54,16 @@ Notes goes here
 
 </div>
 
-##  Github: Getting started docs
+<!-- *********************** NEW SLIDE *********************** -->
+
+## :wrench: Hacking and Orchestrating Cloud Brains, Physical Sensors, and the Network
 
 <div id="fig-template">
 
-<img src="figures/00_template-vector-images/drawing-v00.svg"
+<img src="figures/team-ucl-cps-hackathon-01.svg"
 data-fig-align="center" />
 
-Figure 1: Getting started documentation provide with a range of links to
-setup, use, run and debug application including github workflow.
+Figure 1: Cyber physical systems, cloud layer and participants
 
 </div>
 
@@ -71,9 +75,9 @@ Speaker notes go here.
 
 <!-- *********************** NEW SLIDE *********************** -->
 
-# Section title 2
+# UCL Infrastructure
 
-Subsection title
+Orchestrating Cloud Brains, Physical Sensors, and the Network
 
 <div class="notes">
 
@@ -81,15 +85,16 @@ Notes goes here
 
 </div>
 
-##  Github: Getting started docs
+<!-- *********************** NEW SLIDE *********************** -->
+
+## :robot: Orchestrating UCL infrastructure
 
 <div id="fig-template">
 
-<img src="figures/00_template-vector-images/drawing-v00.svg"
+<img src="figures/cyber-physical-hackathon-network.svg"
 data-fig-align="center" />
 
-Figure 2: Getting started documentation provide with a range of links to
-setup, use, run and debug application including github workflow.
+Figure 2: Servers in UCL infrastructure and their network communication
 
 </div>
 
@@ -101,13 +106,35 @@ Speaker notes go here.
 
 <!-- *********************** NEW SLIDE *********************** -->
 
-## Title of the slide
+## Demos: IsaacSim
 
-- Bullet point 1
-- Bullet point 2
-- **Bullet point** 3
-  - Bullet point 3.1
-  - Bullet point 3.2
+<div id="fig-template">
+
+<img src="figures/ezgif-4fa230460975b3.gif" data-fig-align="center" />
+
+Figure 3: IsaacSim IDE with robot simple key control
+
+</div>
+
+<div class="notes">
+
+Speaker notes go here.
+
+</div>
+
+<!-- *********************** NEW SLIDE *********************** -->
+
+## Key Takeaways & Why This Matters
+
+1.  Lowering the Barrier to Advanced Robotics
+2.  A Scalable Model for Cross-Department Collaboration
+3.  Real Sensors, Real Networks, Real Constraints
+4.  High-Performance Networking Enables New Workflows
+5.  Cloud-Ready Robotics Training at Scale
+6.  Hands-On Learning Accelerates Skills Transfer
+7.  Cost-Aware, Sustainable Infrastructure Design
+8.  A Testbed for Research, Training, and Innovation
+9.  Clear Opportunities for Collaboration & Funding
 
 <div style="font-size: 40%;">
 
@@ -136,7 +163,7 @@ Notes goes here
 
 <!-- *********************** NEW SLIDE *********************** -->
 
-## My Journey
+## Miguel Xochicale
 
 <div id="sec-mt" style="margin-top: 0px; font-size: 50%;">
 

@@ -1,30 +1,37 @@
 [
   {
-    "objectID": "index.html#github-getting-started-docs",
-    "href": "index.html#github-getting-started-docs",
+    "objectID": "index.html#hacking-and-orchestrating-cloud-brains-physical-sensors-and-the-network",
+    "href": "index.html#hacking-and-orchestrating-cloud-brains-physical-sensors-and-the-network",
     "title": "",
-    "section": " Github: Getting started docs",
-    "text": "Github: Getting started docs\n\n\nFigure 1: Getting started documentation provide with a range of links to setup, use, run and debug application including github workflow.\n\nSpeaker notes go here."
+    "section": "🔧 Hacking and Orchestrating Cloud Brains, Physical Sensors, and the Network",
+    "text": "🔧 Hacking and Orchestrating Cloud Brains, Physical Sensors, and the Network\n\n\nFigure 1: Cyber physical systems, cloud layer and participants\n\nSpeaker notes go here."
   },
   {
-    "objectID": "index.html#github-getting-started-docs-1",
-    "href": "index.html#github-getting-started-docs-1",
+    "objectID": "index.html#orchestrating-ucl-infrastructure",
+    "href": "index.html#orchestrating-ucl-infrastructure",
     "title": "",
-    "section": " Github: Getting started docs",
-    "text": "Github: Getting started docs\n\n\nFigure 2: Getting started documentation provide with a range of links to setup, use, run and debug application including github workflow.\n\nSpeaker notes go here."
+    "section": "🤖 Orchestrating UCL infrastructure",
+    "text": "🤖 Orchestrating UCL infrastructure\n\n\nFigure 2: Servers in UCL infrastructure and their network communication\n\nSpeaker notes go here."
   },
   {
-    "objectID": "index.html#title-of-the-slide",
-    "href": "index.html#title-of-the-slide",
+    "objectID": "index.html#demos-isaacsim",
+    "href": "index.html#demos-isaacsim",
     "title": "",
-    "section": "Title of the slide",
-    "text": "Title of the slide\n\nBullet point 1\nBullet point 2\nBullet point 3\n\nBullet point 3.1\nBullet point 3.2\n\n\n\nSciortino et al. 2017 in Computers in Biology and Medicine https://doi.org/10.1016/j.compbiomed.2017.01.008;\nHe et al. 2021 in Front. Med. https://doi.org/10.3389/fmed.2021.729978\n\n\nNotes goes here"
+    "section": "Demos: IsaacSim",
+    "text": "Demos: IsaacSim\n\n\nFigure 3: IsaacSim IDE with robot simple key control\n\nSpeaker notes go here."
   },
   {
-    "objectID": "index.html#my-journey",
-    "href": "index.html#my-journey",
+    "objectID": "index.html#key-takeaways-why-this-matters",
+    "href": "index.html#key-takeaways-why-this-matters",
     "title": "",
-    "section": "My Journey",
-    "text": "My Journey\n\n\n\n\n\n\n\n\nNotes goes here for my journey"
+    "section": "Key Takeaways & Why This Matters",
+    "text": "Key Takeaways & Why This Matters\n\nLowering the Barrier to Advanced Robotics\nA Scalable Model for Cross-Department Collaboration\nReal Sensors, Real Networks, Real Constraints\nHigh-Performance Networking Enables New Workflows\nCloud-Ready Robotics Training at Scale\nHands-On Learning Accelerates Skills Transfer\nCost-Aware, Sustainable Infrastructure Design\nA Testbed for Research, Training, and Innovation\nClear Opportunities for Collaboration & Funding\n\n\nSciortino et al. 2017 in Computers in Biology and Medicine https://doi.org/10.1016/j.compbiomed.2017.01.008;\nHe et al. 2021 in Front. Med. https://doi.org/10.3389/fmed.2021.729978\n\n\nNotes goes here"
+  },
+  {
+    "objectID": "index.html#miguel-xochicale",
+    "href": "index.html#miguel-xochicale",
+    "title": "",
+    "section": "Miguel Xochicale",
+    "text": "Miguel Xochicale\n\n\n\n\n\n\n\n\nNotes goes here for my journey"
   }
 ]
