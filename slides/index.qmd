@@ -32,15 +32,18 @@ format:
 
 <span style="color:#939393; font-size:1.75em; text-align:left; display:block;">
 
-Title of the slides: Please add the title
+Modernizing ROS 2 Skills:    
+Hacking and Orchestrating Cloud Brains,    
+Physical Sensors, and the Network    
 
 </span>  
 
 [<br>&nbsp;]{style="padding-bottom: 0.25rem;"}  
-[{{< fa solid home >}}](http://name-surname.github.io/) Name Surname   
+[{{< fa solid home >}}](http://name-surname.github.io/) CEGE & ARC Teams    
+
 [
   [
-  [{{< fa brands github >}} `github-link-slides`](https://github.com/github-link-slides)
+  [{{< fa brands github >}} `slides`](https://ucl-cyberphysicalsystems.github.io/fosdem2026/)
   ]{style="border-bottom: 0.5px solid #00ccff;"}
 ]{style="font-size:0.45em;"}
 :::
@@ -61,8 +64,8 @@ Title of the slides: Please add the title
 <!-- *********************** NEW SLIDE *********************** -->
 # Overview {style="font-size: 60%;"} 
 
-* [Section title 1](#sectag_title_1)
-* [Section title 2](#sectag_title_2)
+* [Introduction](#Introduction)
+* [UCL Infrastructure](#ucl-nfrastructure)
 <!--  Comments -->
 <!--  * [Open-Source Software in Healthcare](#sec-ossh) -->
 
@@ -71,21 +74,22 @@ Title of the slides: Please add the title
 
 
 <!-- *********************** NEW SLIDE *********************** -->
-# Section title 1 {#sectag_title_1}
-Subsection title
+# Introduction {#Introduction}
+Modernizing ROS 2 Skills
 
 ::: {.notes}
   Notes goes here
 :::
 
 
-## {{< fa brands github >}} Github: Getting started docs
+<!-- *********************** NEW SLIDE *********************** -->
+## :wrench: Hacking and Orchestrating Cloud Brains, Physical Sensors, and the Network   
 
 ::: {#fig-template}
 
-![](figures/00_template-vector-images/drawing-v00.svg){fig-align=center}
+![](figures/team-ucl-cps-hackathon-01.svg){fig-align=center}
 
-Getting started documentation provide with a range of links to setup, use, run and debug application including github workflow. 
+Cyber physical systems, cloud layer and participants
 :::
 
 ::: {.notes}
@@ -95,21 +99,36 @@ Speaker notes go here.
 
 
 <!-- *********************** NEW SLIDE *********************** -->
-# Section title 2 {#sectag_title_2}
-Subsection title
+# UCL Infrastructure {#ucl-nfrastructure}
+Orchestrating Cloud Brains, Physical Sensors, and the Network   
 
 ::: {.notes}
   Notes goes here
 :::
 
-
-## {{< fa brands github >}} Github: Getting started docs
+<!-- *********************** NEW SLIDE *********************** -->
+## :robot: Orchestrating UCL infrastructure
 
 ::: {#fig-template}
 
-![](figures/00_template-vector-images/drawing-v00.svg){fig-align=center}
+![](figures/cyber-physical-hackathon-network.svg){fig-align=center}
 
-Getting started documentation provide with a range of links to setup, use, run and debug application including github workflow. 
+Servers in UCL infrastructure and their network communication
+:::
+
+::: {.notes}
+Speaker notes go here.
+:::
+
+
+<!-- *********************** NEW SLIDE *********************** -->
+## Demos: IsaacSim 
+
+::: {#fig-template}
+
+![](figures/ezgif-4fa230460975b3.gif){fig-align=center}
+
+IsaacSim IDE with robot simple key control 
 :::
 
 ::: {.notes}
@@ -118,21 +137,24 @@ Speaker notes go here.
 
 
 
-
 <!-- *********************** NEW SLIDE *********************** -->
-## Title of the slide
+## Key Takeaways & Why This Matters
 
-* Bullet point 1
-* Bullet point 2
-* **Bullet point** 3
-  * Bullet point 3.1
-  * Bullet point 3.2
-
+1. Lowering the Barrier to Advanced Robotics
+2. A Scalable Model for Cross-Department Collaboration
+3. Real Sensors, Real Networks, Real Constraints
+4. High-Performance Networking Enables New Workflows
+5. Cloud-Ready Robotics Training at Scale
+6. Hands-On Learning Accelerates Skills Transfer
+7. Cost-Aware, Sustainable Infrastructure Design
+8. A Testbed for Research, Training, and Innovation
+9. Clear Opportunities for Collaboration & Funding
 
 ::: {style="font-size: 40%;"}
 **Sciortino et al. 2017** in Computers in Biology and Medicine https://doi.org/10.1016/j.compbiomed.2017.01.008;      
 **He et al. 2021** in Front. Med. https://doi.org/10.3389/fmed.2021.729978
 :::
+
 ::: {.notes}
   Notes goes here
 :::
@@ -146,9 +168,8 @@ Speaker notes go here.
   Notes goes here
 :::
 
-
 <!-- *********************** NEW SLIDE *********************** -->
-## My Journey
+## Miguel Xochicale
 
 ::: {#sec-mt style="margin-top: 0px; font-size: 50%;"} 
 ![](figures/mx.svg){fig-align="center" width="100%"}
