@@ -110,7 +110,7 @@ git checkout main
 
 * [3/3] Go to [PAGES](https://github.com/UCL-CyberPhysicalSystems/fosdem2026/settings/pages) and select in the menu `Deploy from a branch` and select gh-pages
 
-See [hash for template](https://github.com/UCL-CyberPhysicalSystems/fosdem2026/commit/TOADD)
+See [hash `dbe5f16` for tag v0.1.0 for quarto template](https://github.com/UCL-CyberPhysicalSystems/fosdem2026/commit/dbe5f16fe9949aafe8bfdb4a5a39208154c74072)
 
 ### Push changes and publish slides
 * add `feature_branch` name to [publish-quarto.yml](../.github/workflows/publish-quarto.yml)
