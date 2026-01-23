@@ -39,11 +39,11 @@ Physical Sensors, and the Network
 </span>  
 
 [<br>&nbsp;]{style="padding-bottom: 0.25rem;"}  
-[{{< fa solid home >}}](http://name-surname.github.io/) CEGE & ARC Teams    
+[{{< fa solid home >}}](http://name-surname.github.io/) UCL CEGE and ARC Teams    
 
 [
   [
-  [{{< fa brands github >}} `slides`](https://ucl-cyberphysicalsystems.github.io/fosdem2026/)
+  [{{< fa brands github >}} `github-repository:UCL-CyberPhysicalSystems/fosdem2026`](https://ucl-cyberphysicalsystems.github.io/fosdem2026/)
   ]{style="border-bottom: 0.5px solid #00ccff;"}
 ]{style="font-size:0.45em;"}
 :::
@@ -66,6 +66,8 @@ Physical Sensors, and the Network
 
 * [Introduction](#Introduction)
 * [UCL Infrastructure](#ucl-nfrastructure)
+* [Key Takeaways, Calls to Action and Acknowledgements](#tacfa)
+
 <!--  Comments -->
 <!--  * [Open-Source Software in Healthcare](#sec-ossh) -->
 
@@ -136,9 +138,50 @@ Speaker notes go here.
 :::
 
 
+<!-- *********************** NEW SLIDE *********************** -->
+# Key Takeaways, Calls to Action and Acknowledgements {#tacfa}
+
+::: {.notes}
+  Notes goes here
+:::
+
 
 <!-- *********************** NEW SLIDE *********************** -->
 ## Key Takeaways & Why This Matters
+
+* Lowering the Barrier to Advanced Robotics at Scale       
+    * ::: {style="font-size: 60%;"}
+Cloud-ready, cost-aware infrastructure enables hands-on robotics training and 
+research using real sensors, networks, and constraints.
+:::
+
+* A Proven, Scalable Model for Collaboration   
+    * ::: {style="font-size: 60%;"}
+High-performance networking and shared platforms make cross-department 
+and cross-institution collaboration practical and repeatable.
+:::
+
+* From Training to Innovation   
+    * ::: {style="font-size: 60%;"}
+The testbed supports skills transfer, research experimentation, and 
+the rapid development of new robotics workflows.
+:::
+
+
+* Call to Action  
+    * ::: {style="font-size: 60%;"}
+Partner with us to extend the testbed, through collaboration and funding to scale training, 
+expand research use cases, and deploy the model beyond a single institution.
+:::
+
+
+::: {style="font-size: 40%;"}
+**Sciortino et al. 2017** in Computers in Biology and Medicine https://doi.org/10.1016/j.compbiomed.2017.01.008;      
+**He et al. 2021** in Front. Med. https://doi.org/10.3389/fmed.2021.729978
+:::
+
+::: {.notes}
+
 
 1. Lowering the Barrier to Advanced Robotics
 2. A Scalable Model for Cross-Department Collaboration
@@ -150,9 +193,32 @@ Speaker notes go here.
 8. A Testbed for Research, Training, and Innovation
 9. Clear Opportunities for Collaboration & Funding
 
+:::
+
+
+<!-- *********************** NEW SLIDE *********************** -->
+## Acknowledgements
+
+* UCL CEGE: UCL Civil, Environmental and Geomatic Engineering:    
+[Mickey Li](https://github.com/mhl787156), 
+[Chris Bendkowski](https://github.com/ctbend)
+
+
+* UCL ARC: UCL Advanced Research Computing Centre:    
+[Mack Nixon](https://github.com/TOADD), 
+[Mahmoud Abdelrazek](https://github.com/TOADD), 
+[Sunny Park](https://github.com/TOADD), 
+[Emily Dubrovska](https://github.com/pineapple-cat), 
+[Yagmur Ozdemir](https://github.com/yidilozdemir), 
+[Marlon Wijeyasinghe](https://github.com/mwij02), 
+[Ruaridh Gollifer](https://github.com/ruaridhg), 
+[James Legg](https://github.com/cjlegg), 
+[Samantha Ahern](https://github.com/quirksahern), 
+[Miguel Xochicale](https://github.com/mxochicale), 
+[James Hetherington](https://github.com/jamespjh) 
+
+
 ::: {style="font-size: 40%;"}
-**Sciortino et al. 2017** in Computers in Biology and Medicine https://doi.org/10.1016/j.compbiomed.2017.01.008;      
-**He et al. 2021** in Front. Med. https://doi.org/10.3389/fmed.2021.729978
 :::
 
 ::: {.notes}
