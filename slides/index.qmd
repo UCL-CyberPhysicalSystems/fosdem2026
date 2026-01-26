@@ -38,12 +38,16 @@ Physical Sensors, and the Network
 
 </span>  
 
-[<br>&nbsp;]{style="padding-bottom: 0.25rem;"}  
+[<br>&nbsp;]{style="padding-bottom: 0.25rem;"}
 [{{< fa solid home >}}](http://name-surname.github.io/) UCL CEGE and ARC Teams    
 
 [
+  [FOSDEM 2026; Track: Robotics and Simulation; Brussels / Saturday 31 January ](https://fosdem.org/2026/schedule/event/3SFYWM-hacking-cyber-physical_systems-with-ros2/)  
+  ]{style="font-size:0.45em;"}
+
+[
   [
-  [{{< fa brands github >}} `github-repository:UCL-CyberPhysicalSystems/fosdem2026`](https://ucl-cyberphysicalsystems.github.io/fosdem2026/)
+  [{{< fa brands github >}} `github-repository:UCL-CyberPhysicalSystems/fosdem2026`](https://github.com/UCL-CyberPhysicalSystems/fosdem2026)
   ]{style="border-bottom: 0.5px solid #00ccff;"}
 ]{style="font-size:0.45em;"}
 :::
@@ -66,6 +70,7 @@ Physical Sensors, and the Network
 
 * [Introduction](#Introduction)
 * [UCL Infrastructure](#ucl-nfrastructure)
+* [Demos](#demos)
 * [Key Takeaways, Calls to Action and Acknowledgements](#tacfa)
 
 <!--  Comments -->
@@ -122,16 +127,36 @@ Servers in UCL infrastructure and their network communication
 Speaker notes go here.
 :::
 
+<!-- *********************** NEW SLIDE *********************** -->
+# Demos {#demos}
+Orchestrating Cloud Brains, Physical Sensors, and the Network
+
+::: {.notes}
+  Notes goes here
+:::
+
 
 <!-- *********************** NEW SLIDE *********************** -->
-## Demos: IsaacSim 
+## Demos: zenoh-plugin-ros2dds
 
-::: {#fig-template}
 
-![](figures/ezgif-4fa230460975b3.gif){fig-align=center}
+:::: {.columns}
 
-IsaacSim IDE with robot simple key control 
+::: {.column width="40%"}
+
+* ROS2 dockercontainer
+* Github Container Registry
+* VM managed with terraform and kuberneetes
+
 :::
+
+::: {.column width="60%"}
+
+TODO: add animation or figure
+
+:::
+
+::::
 
 ::: {.notes}
 Speaker notes go here.
@@ -171,7 +196,7 @@ the rapid development of new robotics workflows.
 * Call to Action  
     * ::: {style="font-size: 60%;"}
 Partner with us to extend the testbed, through collaboration and funding to scale training, 
-expand research use cases, and deploy the model beyond a single institution.
+expand research use cases, and deploy models beyond a single institution.
 :::
 
 
@@ -217,6 +242,8 @@ expand research use cases, and deploy the model beyond a single institution.
 [Miguel Xochicale](https://github.com/mxochicale), 
 [James Hetherington](https://github.com/jamespjh) 
 
+	* Unified-AI team: Andrew Esterson and Sylvie Ramos
+	* Condenser team: Sam Reece and Brian Maher
 
 ::: {style="font-size: 40%;"}
 :::
@@ -233,6 +260,23 @@ expand research use cases, and deploy the model beyond a single institution.
 ::: {.notes}
   Notes goes here
 :::
+
+<!-- *********************** NEW SLIDE *********************** -->
+## Demos: IsaacSim
+
+::: {#fig-template}
+
+![](figures/ezgif-4fa230460975b3.gif){fig-align=center}
+
+IsaacSim IDE with robot simple key control
+:::
+
+::: {.notes}
+Speaker notes go here.
+:::
+
+
+
 
 <!-- *********************** NEW SLIDE *********************** -->
 ## Miguel Xochicale
