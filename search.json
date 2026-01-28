@@ -18,7 +18,7 @@
     "href": "index.html#demos-zenoh-plugin-ros2dds",
     "title": "",
     "section": "Demos: zenoh-plugin-ros2dds",
-    "text": "Demos: zenoh-plugin-ros2dds\n\n\n\nROS2 dockercontainer\nGithub Container Registry\nVM managed with terraform and kuberneetes\n\n\nTODO: add animation or figure\n\n\nSpeaker notes go here."
+    "text": "Demos: zenoh-plugin-ros2dds\n\n\n\nROS2 dockercontainer\nGithub Container Registry\nVMs managed with terraform and kubernetes (k8s)\n\n\n\n\n\n\n\n\n\nSpeaker notes go here."
   },
   {
     "objectID": "index.html#key-takeaways-why-this-matters",
@@ -40,6 +40,20 @@
     "title": "",
     "section": "Demos: IsaacSim",
     "text": "Demos: IsaacSim\n\n\nFigure 3: IsaacSim IDE with robot simple key control\n\nSpeaker notes go here."
+  },
+  {
+    "objectID": "index.html#action-mechanisms-of-embodied-ai",
+    "href": "index.html#action-mechanisms-of-embodied-ai",
+    "title": "",
+    "section": "Action mechanisms of Embodied AI",
+    "text": "Action mechanisms of Embodied AI\n\n\n\nFigure 4: Fig 15 from Liu et al. 2025 Neural Brain: A Neuroscience-inspired Framework for Embodied Agents arXiv preprint: 2505.07634"
+  },
+  {
+    "objectID": "index.html#multimodal-sensing",
+    "href": "index.html#multimodal-sensing",
+    "title": "",
+    "section": "Multimodal Sensing",
+    "text": "Multimodal Sensing\n\n\nFigure 5: Fig 11 from Liu et al. 2025 Neural Brain: A Neuroscience-inspired Framework for Embodied Agents arXiv preprint: 2505.07634\n\nSpeaker notes go here. Getting started documentation provide with a range of links to setup, use, run and debug application including github workflow."
   },
   {
     "objectID": "index.html#miguel-xochicale",

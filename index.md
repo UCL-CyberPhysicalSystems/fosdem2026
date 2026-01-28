@@ -136,13 +136,13 @@ Notes goes here
 
 - ROS2 dockercontainer
 - Github Container Registry
-- VM managed with terraform and kuberneetes
+- VMs managed with terraform and kubernetes (k8s)
 
 </div>
 
 <div class="column" width="60%">
 
-TODO: add animation or figure
+<img src="figures/hacking-pipeline.svg" data-fig-align="center" />
 
 </div>
 
@@ -281,6 +281,44 @@ Figure 3: IsaacSim IDE with robot simple key control
 <div class="notes">
 
 Speaker notes go here.
+
+</div>
+
+<!-- *********************** NEW SLIDE *********************** -->
+
+## Action mechanisms of Embodied AI
+
+<div id="fig-template">
+
+<img src="figures/mechanisms-embodiedAI-liu2025.svg"
+data-fig-align="center" />
+
+Figure 4: Fig 15 from **Liu et al. 2025** *Neural Brain: A
+Neuroscience-inspired Framework for Embodied Agents* [arXiv preprint:
+2505.07634](https://arxiv.org/abs/2505.07634)
+
+</div>
+
+<!-- *********************** NEW SLIDE *********************** -->
+
+## Multimodal Sensing
+
+<div id="fig-template">
+
+<img src="figures/multimodal-sensing-liu2025.svg"
+data-fig-align="center" />
+
+Figure 5: Fig 11 from **Liu et al. 2025** *Neural Brain: A
+Neuroscience-inspired Framework for Embodied Agents* [arXiv preprint:
+2505.07634](https://arxiv.org/abs/2505.07634)
+
+</div>
+
+<div class="notes">
+
+Speaker notes go here. Getting started documentation provide with a
+range of links to setup, use, run and debug application including github
+workflow.
 
 </div>
 
