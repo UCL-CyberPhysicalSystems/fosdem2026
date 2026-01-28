@@ -146,13 +146,13 @@ Orchestrating Cloud Brains, Physical Sensors, and the Network
 
 * ROS2 dockercontainer
 * Github Container Registry
-* VM managed with terraform and kuberneetes
+* VMs managed with terraform and kubernetes (k8s)
 
 :::
 
 ::: {.column width="60%"}
 
-TODO: add animation or figure
+![](figures/hacking-pipeline.svg){fig-align=center}
 
 :::
 
@@ -273,6 +273,35 @@ IsaacSim IDE with robot simple key control
 
 ::: {.notes}
 Speaker notes go here.
+:::
+
+
+<!-- *********************** NEW SLIDE *********************** -->
+## Action mechanisms of Embodied AI
+
+::: {#fig-template}
+
+![](figures/mechanisms-embodiedAI-liu2025.svg){fig-align=center}
+
+Fig 15 from **Liu et al. 2025** _Neural Brain: A Neuroscience-inspired Framework for Embodied Agents_ [arXiv preprint: 2505.07634](https://arxiv.org/abs/2505.07634)
+:::
+
+
+
+<!-- *********************** NEW SLIDE *********************** -->
+## Multimodal Sensing
+
+::: {#fig-template}
+
+![](figures/multimodal-sensing-liu2025.svg){fig-align=center}
+
+Fig 11 from **Liu et al. 2025** _Neural Brain: A Neuroscience-inspired Framework for Embodied Agents_ [arXiv preprint: 2505.07634](https://arxiv.org/abs/2505.07634)
+
+:::
+
+::: {.notes}
+Speaker notes go here.
+Getting started documentation provide with a range of links to setup, use, run and debug application including github workflow. 
 :::
 
 
