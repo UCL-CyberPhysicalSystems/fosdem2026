@@ -32,15 +32,22 @@ format:
 
 <span style="color:#939393; font-size:1.75em; text-align:left; display:block;">
 
-Title of the slides: Please add the title
+Modernizing ROS 2 Skills:    
+Hacking and Orchestrating Cloud Brains,    
+Physical Sensors, and the Network    
 
 </span>  
 
-[<br>&nbsp;]{style="padding-bottom: 0.25rem;"}  
-[{{< fa solid home >}}](http://name-surname.github.io/) Name Surname   
+[<br>&nbsp;]{style="padding-bottom: 0.25rem;"}
+[{{< fa solid home >}}](http://name-surname.github.io/) UCL CEGE and ARC Teams    
+
+[
+  [FOSDEM 2026; Track: Robotics and Simulation; Brussels / Saturday 31 January ](https://fosdem.org/2026/schedule/event/3SFYWM-hacking-cyber-physical_systems-with-ros2/)  
+  ]{style="font-size:0.45em;"}
+
 [
   [
-  [{{< fa brands github >}} `github-link-slides`](https://github.com/github-link-slides)
+  [{{< fa brands github >}} `github-repository:UCL-CyberPhysicalSystems/fosdem2026`](https://github.com/UCL-CyberPhysicalSystems/fosdem2026)
   ]{style="border-bottom: 0.5px solid #00ccff;"}
 ]{style="font-size:0.45em;"}
 :::
@@ -61,8 +68,11 @@ Title of the slides: Please add the title
 <!-- *********************** NEW SLIDE *********************** -->
 # Overview {style="font-size: 60%;"} 
 
-* [Section title 1](#sectag_title_1)
-* [Section title 2](#sectag_title_2)
+* [Introduction](#Introduction)
+* [UCL Infrastructure](#ucl-nfrastructure)
+* [Demos](#demos)
+* [Key Takeaways, Calls to Action and Acknowledgements](#tacfa)
+
 <!--  Comments -->
 <!--  * [Open-Source Software in Healthcare](#sec-ossh) -->
 
@@ -71,21 +81,22 @@ Title of the slides: Please add the title
 
 
 <!-- *********************** NEW SLIDE *********************** -->
-# Section title 1 {#sectag_title_1}
-Subsection title
+# Introduction {#Introduction}
+Modernizing ROS 2 Skills
 
 ::: {.notes}
   Notes goes here
 :::
 
 
-## {{< fa brands github >}} Github: Getting started docs
+<!-- *********************** NEW SLIDE *********************** -->
+## :wrench: Hacking and Orchestrating Cloud Brains, Physical Sensors, and the Network   
 
 ::: {#fig-template}
 
-![](figures/00_template-vector-images/drawing-v00.svg){fig-align=center}
+![](figures/team-ucl-cps-hackathon-01.svg){fig-align=center}
 
-Getting started documentation provide with a range of links to setup, use, run and debug application including github workflow. 
+Cyber physical systems, cloud layer and participants
 :::
 
 ::: {.notes}
@@ -95,44 +106,148 @@ Speaker notes go here.
 
 
 <!-- *********************** NEW SLIDE *********************** -->
-# Section title 2 {#sectag_title_2}
-Subsection title
+# UCL Infrastructure {#ucl-nfrastructure}
+Orchestrating Cloud Brains, Physical Sensors, and the Network   
 
 ::: {.notes}
   Notes goes here
 :::
 
-
-## {{< fa brands github >}} Github: Getting started docs
+<!-- *********************** NEW SLIDE *********************** -->
+## :robot: Orchestrating UCL infrastructure
 
 ::: {#fig-template}
 
-![](figures/00_template-vector-images/drawing-v00.svg){fig-align=center}
+![](figures/cyber-physical-hackathon-network.svg){fig-align=center}
 
-Getting started documentation provide with a range of links to setup, use, run and debug application including github workflow. 
+Servers in UCL infrastructure and their network communication
 :::
 
 ::: {.notes}
 Speaker notes go here.
 :::
 
+<!-- *********************** NEW SLIDE *********************** -->
+# Demos {#demos}
+Orchestrating Cloud Brains, Physical Sensors, and the Network
 
+::: {.notes}
+  Notes goes here
+:::
 
 
 <!-- *********************** NEW SLIDE *********************** -->
-## Title of the slide
+## Demos: zenoh-plugin-ros2dds
 
-* Bullet point 1
-* Bullet point 2
-* **Bullet point** 3
-  * Bullet point 3.1
-  * Bullet point 3.2
+
+:::: {.columns}
+
+::: {.column width="40%"}
+
+* ROS2 dockercontainer
+* Github Container Registry
+* VMs managed with terraform and kubernetes (k8s)
+
+:::
+
+::: {.column width="60%"}
+
+![](figures/hacking-pipeline.svg){fig-align=center}
+
+:::
+
+::::
+
+::: {.notes}
+Speaker notes go here.
+:::
+
+
+<!-- *********************** NEW SLIDE *********************** -->
+# Key Takeaways, Calls to Action and Acknowledgements {#tacfa}
+
+::: {.notes}
+  Notes goes here
+:::
+
+
+<!-- *********************** NEW SLIDE *********************** -->
+## Key Takeaways & Why This Matters
+
+* Lowering the Barrier to Advanced Robotics at Scale       
+    * ::: {style="font-size: 60%;"}
+Cloud-ready, cost-aware infrastructure enables hands-on robotics training and 
+research using real sensors, networks, and constraints.
+:::
+
+* A Proven, Scalable Model for Collaboration   
+    * ::: {style="font-size: 60%;"}
+High-performance networking and shared platforms make cross-department 
+and cross-institution collaboration practical and repeatable.
+:::
+
+* From Training to Innovation   
+    * ::: {style="font-size: 60%;"}
+The testbed supports skills transfer, research experimentation, and 
+the rapid development of new robotics workflows.
+:::
+
+
+* Call to Action  
+    * ::: {style="font-size: 60%;"}
+Partner with us to extend the testbed, through collaboration and funding to scale training, 
+expand research use cases, and deploy models beyond a single institution.
+:::
 
 
 ::: {style="font-size: 40%;"}
 **Sciortino et al. 2017** in Computers in Biology and Medicine https://doi.org/10.1016/j.compbiomed.2017.01.008;      
 **He et al. 2021** in Front. Med. https://doi.org/10.3389/fmed.2021.729978
 :::
+
+::: {.notes}
+
+
+1. Lowering the Barrier to Advanced Robotics
+2. A Scalable Model for Cross-Department Collaboration
+3. Real Sensors, Real Networks, Real Constraints
+4. High-Performance Networking Enables New Workflows
+5. Cloud-Ready Robotics Training at Scale
+6. Hands-On Learning Accelerates Skills Transfer
+7. Cost-Aware, Sustainable Infrastructure Design
+8. A Testbed for Research, Training, and Innovation
+9. Clear Opportunities for Collaboration & Funding
+
+:::
+
+
+<!-- *********************** NEW SLIDE *********************** -->
+## Acknowledgements
+
+* UCL CEGE: UCL Civil, Environmental and Geomatic Engineering:    
+[Mickey Li](https://github.com/mhl787156), 
+[Chris Bendkowski](https://github.com/ctbend)
+
+
+* UCL ARC: UCL Advanced Research Computing Centre:    
+[Mack Nixon](https://github.com/TOADD), 
+[Mahmoud Abdelrazek](https://github.com/TOADD), 
+[Sunny Park](https://github.com/TOADD), 
+[Emily Dubrovska](https://github.com/pineapple-cat), 
+[Yagmur Ozdemir](https://github.com/yidilozdemir), 
+[Marlon Wijeyasinghe](https://github.com/mwij02), 
+[Ruaridh Gollifer](https://github.com/ruaridhg), 
+[James Legg](https://github.com/cjlegg), 
+[Samantha Ahern](https://github.com/quirksahern), 
+[Miguel Xochicale](https://github.com/mxochicale), 
+[James Hetherington](https://github.com/jamespjh) 
+
+	* Unified-AI team: Andrew Esterson and Sylvie Ramos
+	* Condenser team: Sam Reece and Brian Maher
+
+::: {style="font-size: 40%;"}
+:::
+
 ::: {.notes}
   Notes goes here
 :::
@@ -146,9 +261,54 @@ Speaker notes go here.
   Notes goes here
 :::
 
+<!-- *********************** NEW SLIDE *********************** -->
+## Demos: IsaacSim
+
+::: {#fig-template}
+
+![](figures/ezgif-4fa230460975b3.gif){fig-align=center}
+
+IsaacSim IDE with robot simple key control
+:::
+
+::: {.notes}
+Speaker notes go here.
+:::
+
 
 <!-- *********************** NEW SLIDE *********************** -->
-## My Journey
+## Action mechanisms of Embodied AI
+
+::: {#fig-template}
+
+![](figures/mechanisms-embodiedAI-liu2025.svg){fig-align=center}
+
+Fig 15 from **Liu et al. 2025** _Neural Brain: A Neuroscience-inspired Framework for Embodied Agents_ [arXiv preprint: 2505.07634](https://arxiv.org/abs/2505.07634)
+:::
+
+
+
+<!-- *********************** NEW SLIDE *********************** -->
+## Multimodal Sensing
+
+::: {#fig-template}
+
+![](figures/multimodal-sensing-liu2025.svg){fig-align=center}
+
+Fig 11 from **Liu et al. 2025** _Neural Brain: A Neuroscience-inspired Framework for Embodied Agents_ [arXiv preprint: 2505.07634](https://arxiv.org/abs/2505.07634)
+
+:::
+
+::: {.notes}
+Speaker notes go here.
+Getting started documentation provide with a range of links to setup, use, run and debug application including github workflow. 
+:::
+
+
+
+
+<!-- *********************** NEW SLIDE *********************** -->
+## Miguel Xochicale
 
 ::: {#sec-mt style="margin-top: 0px; font-size: 50%;"} 
 ![](figures/mx.svg){fig-align="center" width="100%"}
