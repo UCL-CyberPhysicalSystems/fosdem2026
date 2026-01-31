@@ -28,18 +28,18 @@
     "text": "Demos: IsaacSim and IsaacLab\n\n\n\n\n\n\n\n\nFigure 4: IsaacSim IDE with robot simple key control\n\n\n\n\n\n\n\n\n\n\nFigure 5: Franka Lift Cube (RL Training)\n\n\n\n\n\nSpeaker notes go here."
   },
   {
-    "objectID": "index.html#action-mechanisms-of-embodied-ai",
-    "href": "index.html#action-mechanisms-of-embodied-ai",
+    "objectID": "index.html#future-work-multimodal-sensing",
+    "href": "index.html#future-work-multimodal-sensing",
     "title": "",
-    "section": "Action mechanisms of Embodied AI",
-    "text": "Action mechanisms of Embodied AI\n\n\n\nFigure 6: Fig 15 from Liu et al. 2025 Neural Brain: A Neuroscience-inspired Framework for Embodied Agents arXiv preprint: 2505.07634"
+    "section": "Future work: Multimodal Sensing",
+    "text": "Future work: Multimodal Sensing\n\n\nFigure 6: Fig 11 from Liu et al. 2025 Neural Brain: A Neuroscience-inspired Framework for Embodied Agents arXiv preprint: 2505.07634\n\nSpeaker notes go here. Getting started documentation provide with a range of links to setup, use, run and debug application including github workflow."
   },
   {
-    "objectID": "index.html#multimodal-sensing",
-    "href": "index.html#multimodal-sensing",
+    "objectID": "index.html#future-work-action-mechanisms-of-embodied-ai",
+    "href": "index.html#future-work-action-mechanisms-of-embodied-ai",
     "title": "",
-    "section": "Multimodal Sensing",
-    "text": "Multimodal Sensing\n\n\nFigure 7: Fig 11 from Liu et al. 2025 Neural Brain: A Neuroscience-inspired Framework for Embodied Agents arXiv preprint: 2505.07634\n\nSpeaker notes go here. Getting started documentation provide with a range of links to setup, use, run and debug application including github workflow."
+    "section": "Future work: Action mechanisms of Embodied AI",
+    "text": "Future work: Action mechanisms of Embodied AI\n\n\n\nFigure 7: Fig 15 from Liu et al. 2025 Neural Brain: A Neuroscience-inspired Framework for Embodied Agents arXiv preprint: 2505.07634"
   },
   {
     "objectID": "index.html#key-takeaways-why-this-matters",

@@ -212,29 +212,14 @@ Notes goes here
 
 <!-- *********************** NEW SLIDE *********************** -->
 
-## Action mechanisms of Embodied AI
-
-<div id="fig-template">
-
-<img src="figures/mechanisms-embodiedAI-liu2025.svg"
-data-fig-align="center" />
-
-Figure 6: Fig 15 from **Liu et al. 2025** *Neural Brain: A
-Neuroscience-inspired Framework for Embodied Agents* [arXiv preprint:
-2505.07634](https://arxiv.org/abs/2505.07634)
-
-</div>
-
-<!-- *********************** NEW SLIDE *********************** -->
-
-## Multimodal Sensing
+## Future work: Multimodal Sensing
 
 <div id="fig-template">
 
 <img src="figures/multimodal-sensing-liu2025.svg"
 data-fig-align="center" />
 
-Figure 7: Fig 11 from **Liu et al. 2025** *Neural Brain: A
+Figure 6: Fig 11 from **Liu et al. 2025** *Neural Brain: A
 Neuroscience-inspired Framework for Embodied Agents* [arXiv preprint:
 2505.07634](https://arxiv.org/abs/2505.07634)
 
@@ -245,6 +230,21 @@ Neuroscience-inspired Framework for Embodied Agents* [arXiv preprint:
 Speaker notes go here. Getting started documentation provide with a
 range of links to setup, use, run and debug application including github
 workflow.
+
+</div>
+
+<!-- *********************** NEW SLIDE *********************** -->
+
+## Future work: Action mechanisms of Embodied AI
+
+<div id="fig-template">
+
+<img src="figures/mechanisms-embodiedAI-liu2025.svg"
+data-fig-align="center" />
+
+Figure 7: Fig 15 from **Liu et al. 2025** *Neural Brain: A
+Neuroscience-inspired Framework for Embodied Agents* [arXiv preprint:
+2505.07634](https://arxiv.org/abs/2505.07634)
 
 </div>
 
