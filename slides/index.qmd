@@ -261,7 +261,7 @@ Fig 15 from **Liu et al. 2025** _Neural Brain: A Neuroscience-inspired Framework
 
 ![](figures/hamlyn-workshop-2025.png){fig-align=center}
 
-Participants of our 2025 event with [details here](https://www.hamlynsymposium.org/events/healing-through-collaboration-open-source-software-in-surgical-biomedical-and-ai-technologies/)
+Participants of our 2025 event, [details here](https://www.hamlynsymposium.org/events/healing-through-collaboration-open-source-software-in-surgical-biomedical-and-ai-technologies/)
 :::
 
 :::
