@@ -350,6 +350,8 @@ expand research use cases, and deploy models beyond a single institution.
 	* Unified-AI team: Andrew Esterson and Sylvie Ramos
 	* Condenser team: Sam Reece and Brian Maher
 
+* Get in touch! GitHub: [https://github.com/mxochicale](https://github.com/mxochicale)
+
 ::: {style="font-size: 40%;"}
 :::
 
