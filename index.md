@@ -46,7 +46,8 @@ mxochicale)](https://mxochicale.github.io/web-animations/)</span>
 - [Introduction](#Introduction)
 - [UCL Infrastructure](#ucl-nfrastructure)
 - [Demos](#demos)
-- [Key Takeaways, Calls to Action and Acknowledgements](#tacfa)
+- [Future work, Key Takeaways, Calls to Action and
+  Acknowledgements](#tacfa)
 
 <!--  Comments -->
 
@@ -128,21 +129,27 @@ Notes goes here
 
 <!-- *********************** NEW SLIDE *********************** -->
 
-## Demos: zenoh-plugin-ros2dds
+## Demos: VM↔VM and Bare-metal↔VM Communication with `zenoh-plugin-ros2dds`
 
 <div class="columns">
 
-<div class="column" width="40%">
+<div class="column" width="35%">
 
-- ROS2 dockercontainer
+- Docker container with ROS2 dependencies
 - Github Container Registry
 - VMs managed with terraform and kubernetes (k8s)
 
 </div>
 
-<div class="column" width="60%">
+<div class="column" width="65%">
+
+<div id="fig-template">
 
 <img src="figures/hacking-pipeline.svg" data-fig-align="center" />
+
+Figure 3: Hacking and connecting workflow
+
+</div>
 
 </div>
 
@@ -156,11 +163,88 @@ Speaker notes go here.
 
 <!-- *********************** NEW SLIDE *********************** -->
 
-# Key Takeaways, Calls to Action and Acknowledgements
+## Demos: IsaacSim and IsaacLab
+
+<div class="columns">
+
+<div class="column" width="40%">
+
+<div id="fig-template">
+
+<img src="figures/ezgif-4fa230460975b3.gif" data-fig-align="center" />
+
+Figure 4: IsaacSim IDE with robot simple key control
+
+</div>
+
+</div>
+
+<div class="column" width="60%">
+
+<div id="fig-template">
+
+<img src="figures/ezgif-Isaac-Lift-Cube-Franka-v0.gif"
+data-fig-align="center" />
+
+Figure 5: Franka Lift Cube (RL Training)
+
+</div>
+
+</div>
+
+</div>
+
+<div class="notes">
+
+Speaker notes go here.
+
+</div>
+
+<!-- *********************** NEW SLIDE *********************** -->
+
+# Future work, Key Takeaways, Calls to Action and Acknowledgements
 
 <div class="notes">
 
 Notes goes here
+
+</div>
+
+<!-- *********************** NEW SLIDE *********************** -->
+
+## Action mechanisms of Embodied AI
+
+<div id="fig-template">
+
+<img src="figures/mechanisms-embodiedAI-liu2025.svg"
+data-fig-align="center" />
+
+Figure 6: Fig 15 from **Liu et al. 2025** *Neural Brain: A
+Neuroscience-inspired Framework for Embodied Agents* [arXiv preprint:
+2505.07634](https://arxiv.org/abs/2505.07634)
+
+</div>
+
+<!-- *********************** NEW SLIDE *********************** -->
+
+## Multimodal Sensing
+
+<div id="fig-template">
+
+<img src="figures/multimodal-sensing-liu2025.svg"
+data-fig-align="center" />
+
+Figure 7: Fig 11 from **Liu et al. 2025** *Neural Brain: A
+Neuroscience-inspired Framework for Embodied Agents* [arXiv preprint:
+2505.07634](https://arxiv.org/abs/2505.07634)
+
+</div>
+
+<div class="notes">
+
+Speaker notes go here. Getting started documentation provide with a
+range of links to setup, use, run and debug application including github
+workflow.
 
 </div>
 
@@ -183,7 +267,7 @@ Notes goes here
     repeatable.
 
     </div>
-- From Training to Innovation
+- A Testbed for Research, Training, and Innovation
   - <div style="font-size: 60%;">
 
     The testbed supports skills transfer, research experimentation, and
@@ -263,62 +347,6 @@ Notes goes here
 <div class="notes">
 
 Notes goes here
-
-</div>
-
-<!-- *********************** NEW SLIDE *********************** -->
-
-## Demos: IsaacSim
-
-<div id="fig-template">
-
-<img src="figures/ezgif-4fa230460975b3.gif" data-fig-align="center" />
-
-Figure 3: IsaacSim IDE with robot simple key control
-
-</div>
-
-<div class="notes">
-
-Speaker notes go here.
-
-</div>
-
-<!-- *********************** NEW SLIDE *********************** -->
-
-## Action mechanisms of Embodied AI
-
-<div id="fig-template">
-
-<img src="figures/mechanisms-embodiedAI-liu2025.svg"
-data-fig-align="center" />
-
-Figure 4: Fig 15 from **Liu et al. 2025** *Neural Brain: A
-Neuroscience-inspired Framework for Embodied Agents* [arXiv preprint:
-2505.07634](https://arxiv.org/abs/2505.07634)
-
-</div>
-
-<!-- *********************** NEW SLIDE *********************** -->
-
-## Multimodal Sensing
-
-<div id="fig-template">
-
-<img src="figures/multimodal-sensing-liu2025.svg"
-data-fig-align="center" />
-
-Figure 5: Fig 11 from **Liu et al. 2025** *Neural Brain: A
-Neuroscience-inspired Framework for Embodied Agents* [arXiv preprint:
-2505.07634](https://arxiv.org/abs/2505.07634)
-
-</div>
-
-<div class="notes">
-
-Speaker notes go here. Getting started documentation provide with a
-range of links to setup, use, run and debug application including github
-workflow.
 
 </div>
 

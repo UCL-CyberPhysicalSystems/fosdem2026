@@ -177,7 +177,7 @@ Physical Sensors, and the Network</p>
 <li><a href="#/Introduction">Introduction</a></li>
 <li><a href="#/ucl-nfrastructure">UCL Infrastructure</a></li>
 <li><a href="#/demos">Demos</a></li>
-<li><a href="#/tacfa">Key Takeaways, Calls to Action and Acknowledgements</a></li>
+<li><a href="#/tacfa">Future work, Key Takeaways, Calls to Action and Acknowledgements</a></li>
 </ul>
 <!--  Comments -->
 <!--  * [Open-Source Software in Healthcare](#sec-ossh) -->
@@ -281,19 +281,65 @@ Figure&nbsp;2: Servers in UCL infrastructure and their network communication
       }</style></aside>
 <!-- *********************** NEW SLIDE *********************** -->
 </section>
-<section id="demos-zenoh-plugin-ros2dds" class="slide level2">
-<h2>Demos: zenoh-plugin-ros2dds</h2>
+<section id="demos-vmvm-and-bare-metalvm-communication-with-zenoh-plugin-ros2dds" class="slide level2">
+<h2>Demos: VM↔︎VM and Bare-metal↔︎VM Communication with <code>zenoh-plugin-ros2dds</code></h2>
 <div class="columns">
-<div class="column" style="width:40%;">
+<div class="column" style="width:35%;">
 <ul>
-<li>ROS2 dockercontainer</li>
+<li>Docker container with ROS2 dependencies</li>
 <li>Github Container Registry</li>
 <li>VMs managed with terraform and kubernetes (k8s)</li>
 </ul>
+</div><div class="column" style="width:65%;">
+<div id="fig-template" class="quarto-float quarto-figure quarto-figure-center" data-fig-align="center">
+<figure class="quarto-float quarto-float-fig">
+<div aria-describedby="fig-template-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+<img data-src="figures/hacking-pipeline.svg" class="quarto-figure quarto-figure-center">
+</div>
+<figcaption class="quarto-float-caption-bottom quarto-float-caption quarto-float-fig" id="fig-template-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+Figure&nbsp;3: Hacking and connecting workflow
+</figcaption>
+</figure>
+</div>
+</div></div>
+<aside class="notes">
+<p>Speaker notes go here.</p>
+<style type="text/css">
+        span.MJX_Assistive_MathML {
+          position:absolute!important;
+          clip: rect(1px, 1px, 1px, 1px);
+          padding: 1px 0 0 0!important;
+          border: 0!important;
+          height: 1px!important;
+          width: 1px!important;
+          overflow: hidden!important;
+          display:block!important;
+      }</style></aside>
+<!-- *********************** NEW SLIDE *********************** -->
+</section>
+<section id="demos-isaacsim-and-isaaclab" class="slide level2">
+<h2>Demos: IsaacSim and IsaacLab</h2>
+<div class="columns">
+<div class="column" style="width:40%;">
+<div id="fig-template" class="quarto-float quarto-figure quarto-figure-center" data-fig-align="center">
+<figure class="quarto-float quarto-float-fig">
+<div aria-describedby="fig-template-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+<img data-src="figures/ezgif-4fa230460975b3.gif" class="quarto-figure quarto-figure-center">
+</div>
+<figcaption class="quarto-float-caption-bottom quarto-float-caption quarto-float-fig" id="fig-template-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+Figure&nbsp;4: IsaacSim IDE with robot simple key control
+</figcaption>
+</figure>
+</div>
 </div><div class="column" style="width:60%;">
-<div class="quarto-figure quarto-figure-center">
-<figure>
-<p><img data-src="figures/hacking-pipeline.svg" class="quarto-figure quarto-figure-center"></p>
+<div id="fig-template" class="quarto-float quarto-figure quarto-figure-center" data-fig-align="center">
+<figure class="quarto-float quarto-float-fig">
+<div aria-describedby="fig-template-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+<img data-src="figures/ezgif-Isaac-Lift-Cube-Franka-v0.gif" class="quarto-figure quarto-figure-center">
+</div>
+<figcaption class="quarto-float-caption-bottom quarto-float-caption quarto-float-fig" id="fig-template-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+Figure&nbsp;5: Franka Lift Cube (RL Training)
+</figcaption>
 </figure>
 </div>
 </div></div>
@@ -314,9 +360,36 @@ Figure&nbsp;2: Servers in UCL infrastructure and their network communication
 </section></section>
 <section>
 <section id="tacfa" class="title-slide slide level1 center">
-<h1>Key Takeaways, Calls to Action and Acknowledgements</h1>
+<h1>Future work, Key Takeaways, Calls to Action and Acknowledgements</h1>
 <aside class="notes">
 <p>Notes goes here</p>
+<style type="text/css">
+        span.MJX_Assistive_MathML {
+          position:absolute!important;
+          clip: rect(1px, 1px, 1px, 1px);
+          padding: 1px 0 0 0!important;
+          border: 0!important;
+          height: 1px!important;
+          width: 1px!important;
+          overflow: hidden!important;
+          display:block!important;
+      }</style></aside>
+<!-- *********************** NEW SLIDE *********************** -->
+</section>
+<section id="action-mechanisms-of-embodied-ai" class="slide level2">
+<h2>Action mechanisms of Embodied AI</h2>
+
+<!-- *********************** NEW SLIDE *********************** -->
+<img data-src="figures/mechanisms-embodiedAI-liu2025.svg" class="quarto-figure quarto-figure-center r-stretch" id="fig-template"><p class="caption">
+Figure&nbsp;6: Fig 15 from <strong>Liu et al.&nbsp;2025</strong> <em>Neural Brain: A Neuroscience-inspired Framework for Embodied Agents</em> <a href="https://arxiv.org/abs/2505.07634">arXiv preprint: 2505.07634</a>
+</p></section>
+<section id="multimodal-sensing" class="slide level2">
+<h2>Multimodal Sensing</h2>
+
+<img data-src="figures/multimodal-sensing-liu2025.svg" class="quarto-figure quarto-figure-center r-stretch" id="fig-template"><p class="caption">
+Figure&nbsp;7: Fig 11 from <strong>Liu et al.&nbsp;2025</strong> <em>Neural Brain: A Neuroscience-inspired Framework for Embodied Agents</em> <a href="https://arxiv.org/abs/2505.07634">arXiv preprint: 2505.07634</a>
+</p><aside class="notes">
+<p>Speaker notes go here. Getting started documentation provide with a range of links to setup, use, run and debug application including github workflow.</p>
 <style type="text/css">
         span.MJX_Assistive_MathML {
           position:absolute!important;
@@ -345,7 +418,7 @@ Figure&nbsp;2: Servers in UCL infrastructure and their network communication
 <p>High-performance networking and shared platforms make cross-department and cross-institution collaboration practical and repeatable.</p>
 </div></li>
 </ul></li>
-<li>From Training to Innovation
+<li>A Testbed for Research, Training, and Innovation
 <ul>
 <li><div style="font-size: 60%;">
 <p>The testbed supports skills transfer, research experimentation, and the rapid development of new robotics workflows.</p>
@@ -422,53 +495,6 @@ Figure&nbsp;2: Servers in UCL infrastructure and their network communication
 <h1>Extra slides</h1>
 <aside class="notes">
 <p>Notes goes here</p>
-<style type="text/css">
-        span.MJX_Assistive_MathML {
-          position:absolute!important;
-          clip: rect(1px, 1px, 1px, 1px);
-          padding: 1px 0 0 0!important;
-          border: 0!important;
-          height: 1px!important;
-          width: 1px!important;
-          overflow: hidden!important;
-          display:block!important;
-      }</style></aside>
-<!-- *********************** NEW SLIDE *********************** -->
-</section>
-<section id="demos-isaacsim" class="slide level2">
-<h2>Demos: IsaacSim</h2>
-
-<img data-src="figures/ezgif-4fa230460975b3.gif" class="quarto-figure quarto-figure-center r-stretch" id="fig-template"><p class="caption">
-Figure&nbsp;3: IsaacSim IDE with robot simple key control
-</p><aside class="notes">
-<p>Speaker notes go here.</p>
-<style type="text/css">
-        span.MJX_Assistive_MathML {
-          position:absolute!important;
-          clip: rect(1px, 1px, 1px, 1px);
-          padding: 1px 0 0 0!important;
-          border: 0!important;
-          height: 1px!important;
-          width: 1px!important;
-          overflow: hidden!important;
-          display:block!important;
-      }</style></aside>
-<!-- *********************** NEW SLIDE *********************** -->
-</section>
-<section id="action-mechanisms-of-embodied-ai" class="slide level2">
-<h2>Action mechanisms of Embodied AI</h2>
-
-<!-- *********************** NEW SLIDE *********************** -->
-<img data-src="figures/mechanisms-embodiedAI-liu2025.svg" class="quarto-figure quarto-figure-center r-stretch" id="fig-template"><p class="caption">
-Figure&nbsp;4: Fig 15 from <strong>Liu et al.&nbsp;2025</strong> <em>Neural Brain: A Neuroscience-inspired Framework for Embodied Agents</em> <a href="https://arxiv.org/abs/2505.07634">arXiv preprint: 2505.07634</a>
-</p></section>
-<section id="multimodal-sensing" class="slide level2">
-<h2>Multimodal Sensing</h2>
-
-<img data-src="figures/multimodal-sensing-liu2025.svg" class="quarto-figure quarto-figure-center r-stretch" id="fig-template"><p class="caption">
-Figure&nbsp;5: Fig 11 from <strong>Liu et al.&nbsp;2025</strong> <em>Neural Brain: A Neuroscience-inspired Framework for Embodied Agents</em> <a href="https://arxiv.org/abs/2505.07634">arXiv preprint: 2505.07634</a>
-</p><aside class="notes">
-<p>Speaker notes go here. Getting started documentation provide with a range of links to setup, use, run and debug application including github workflow.</p>
 <style type="text/css">
         span.MJX_Assistive_MathML {
           position:absolute!important;
