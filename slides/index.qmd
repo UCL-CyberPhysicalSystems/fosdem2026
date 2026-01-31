@@ -296,7 +296,7 @@ expand research use cases, and deploy models beyond a single institution.
 
 
 <!-- *********************** NEW SLIDE *********************** -->
-## Acknowledgements
+## Thank You to UCL colleagues. Let's Connect!
 
 * UCL CEGE: UCL Civil, Environmental and Geomatic Engineering:    
 [Mickey Li](https://github.com/mhl787156), 
