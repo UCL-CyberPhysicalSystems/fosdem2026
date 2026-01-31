@@ -232,13 +232,44 @@ Getting started documentation provide with a range of links to setup, use, run a
 
 
 <!-- *********************** NEW SLIDE *********************** -->
-## Future work: Action mechanisms of Embodied AI
+## Future work: Developing Embodied Agents
 
 ::: {#fig-template}
 
 ![](figures/mechanisms-embodiedAI-liu2025.svg){fig-align=center}
 
 Fig 15 from **Liu et al. 2025** _Neural Brain: A Neuroscience-inspired Framework for Embodied Agents_ [arXiv preprint: 2505.07634](https://arxiv.org/abs/2505.07634)
+:::
+
+
+
+<!-- *********************** NEW SLIDE *********************** -->
+## Future events: Hamlyn Workshop 2025
+:::: {.columns}
+
+::: {.column width="30%"}
+
+* 50 partcipants, 10 speakers, 6 posters presenters and sold out event!
+* _Open-Source development in Medical Robotics_
+**Late June 2026 at London, UK** 
+
+:::
+
+::: {.column width="70%"}
+
+::: {#fig-template}
+
+![](figures/hamlyn-workshop-2025.png){fig-align=center}
+
+Participants of our 2025 event with [details here](https://www.hamlynsymposium.org/events/healing-through-collaboration-open-source-software-in-surgical-biomedical-and-ai-technologies/)
+:::
+
+:::
+
+::::
+
+::: {.notes}
+Speaker notes go here.
 :::
 
 
