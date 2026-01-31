@@ -308,7 +308,7 @@ https://doi.org/10.3389/fmed.2021.729978
 
 <!-- *********************** NEW SLIDE *********************** -->
 
-## Acknowledgements
+## Thank You to UCL colleagues. Let’s Connect!
 
 - UCL CEGE: UCL Civil, Environmental and Geomatic Engineering:  
   [Mickey Li](https://github.com/mhl787156), [Chris
