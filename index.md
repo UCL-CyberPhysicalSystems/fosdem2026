@@ -235,7 +235,7 @@ workflow.
 
 <!-- *********************** NEW SLIDE *********************** -->
 
-## Future work: Action mechanisms of Embodied AI
+## Future work: Developing Embodied Agents
 
 <div id="fig-template">
 
@@ -245,6 +245,41 @@ data-fig-align="center" />
 Figure 7: Fig 15 from **Liu et al. 2025** *Neural Brain: A
 Neuroscience-inspired Framework for Embodied Agents* [arXiv preprint:
 2505.07634](https://arxiv.org/abs/2505.07634)
+
+</div>
+
+<!-- *********************** NEW SLIDE *********************** -->
+
+## Future events: Hamlyn Workshop 2025
+
+<div class="columns">
+
+<div class="column" width="30%">
+
+- 50 partcipants, 10 speakers, 6 posters presenters and sold out event!
+- *Open-Source development in Medical Robotics* **Late June 2026 at
+  London, UK**
+
+</div>
+
+<div class="column" width="70%">
+
+<div id="fig-template">
+
+<img src="figures/hamlyn-workshop-2025.png" data-fig-align="center" />
+
+Figure 8: Participants of our 2025 event with [details
+here](https://www.hamlynsymposium.org/events/healing-through-collaboration-open-source-software-in-surgical-biomedical-and-ai-technologies/)
+
+</div>
+
+</div>
+
+</div>
+
+<div class="notes">
+
+Speaker notes go here.
 
 </div>
 
