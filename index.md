@@ -365,6 +365,8 @@ https://doi.org/10.3389/fmed.2021.729978
   - Unified-AI team: Andrew Esterson and Sylvie Ramos
   - Condenser team: Sam Reece and Brian Maher
 
+- Get in touch! GitHub: <https://github.com/mxochicale>
+
 <div style="font-size: 40%;">
 
 </div>
