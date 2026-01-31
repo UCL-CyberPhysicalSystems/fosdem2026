@@ -71,7 +71,7 @@ Physical Sensors, and the Network
 * [Introduction](#Introduction)
 * [UCL Infrastructure](#ucl-nfrastructure)
 * [Demos](#demos)
-* [Key Takeaways, Calls to Action and Acknowledgements](#tacfa)
+* [Future work, Key Takeaways, Calls to Action and Acknowledgements](#tacfa)
 
 <!--  Comments -->
 <!--  * [Open-Source Software in Healthcare](#sec-ossh) -->
@@ -137,22 +137,25 @@ Orchestrating Cloud Brains, Physical Sensors, and the Network
 
 
 <!-- *********************** NEW SLIDE *********************** -->
-## Demos: zenoh-plugin-ros2dds
-
+## Demos: VM↔VM and Bare-metal↔VM Communication with `zenoh-plugin-ros2dds`
 
 :::: {.columns}
 
-::: {.column width="40%"}
+::: {.column width="35%"}
 
-* ROS2 dockercontainer
+* Docker container with ROS2 dependencies
 * Github Container Registry
 * VMs managed with terraform and kubernetes (k8s)
 
 :::
 
-::: {.column width="60%"}
+::: {.column width="65%"}
 
+::: {#fig-template}
 ![](figures/hacking-pipeline.svg){fig-align=center}
+
+Hacking and connecting workflow
+:::
 
 :::
 
@@ -164,11 +167,113 @@ Speaker notes go here.
 
 
 <!-- *********************** NEW SLIDE *********************** -->
-# Key Takeaways, Calls to Action and Acknowledgements {#tacfa}
+## Demos: IsaacSim and IsaacLab
+
+:::: {.columns}
+
+::: {.column width="40%"}
+
+::: {#fig-template}
+![](figures/ezgif-4fa230460975b3.gif){fig-align=center}
+
+IsaacSim IDE with robot simple key control
+:::
+
+
+:::
+
+::: {.column width="60%"}
+
+::: {#fig-template}
+![](figures/ezgif-Isaac-Lift-Cube-Franka-v0.gif){fig-align=center}
+
+Franka Lift Cube (RL Training)
+:::
+
+
+:::
+
+::::
+
+::: {.notes}
+Speaker notes go here.
+:::
+
+
+
+
+
+<!-- *********************** NEW SLIDE *********************** -->
+# Future work, Key Takeaways, Calls to Action and Acknowledgements {#tacfa}
 
 ::: {.notes}
   Notes goes here
 :::
+
+
+
+<!-- *********************** NEW SLIDE *********************** -->
+## Future work: Multimodal Sensing
+
+::: {#fig-template}
+
+![](figures/multimodal-sensing-liu2025.svg){fig-align=center}
+
+Fig 11 from **Liu et al. 2025** _Neural Brain: A Neuroscience-inspired Framework for Embodied Agents_ [arXiv preprint: 2505.07634](https://arxiv.org/abs/2505.07634)
+
+:::
+
+::: {.notes}
+Speaker notes go here.
+Getting started documentation provide with a range of links to setup, use, run and debug application including github workflow. 
+:::
+
+
+
+
+<!-- *********************** NEW SLIDE *********************** -->
+## Future work: Developing Embodied Agents
+
+::: {#fig-template}
+
+![](figures/mechanisms-embodiedAI-liu2025.svg){fig-align=center}
+
+Fig 15 from **Liu et al. 2025** _Neural Brain: A Neuroscience-inspired Framework for Embodied Agents_ [arXiv preprint: 2505.07634](https://arxiv.org/abs/2505.07634)
+:::
+
+
+
+<!-- *********************** NEW SLIDE *********************** -->
+## Future events: Hamlyn Workshop 2025
+:::: {.columns}
+
+::: {.column width="30%"}
+
+* 50 partcipants, 10 speakers, 6 posters presenters and sold out event!
+* _Open-Source development in Medical Robotics_
+**Late June 2026 at London, UK** 
+
+:::
+
+::: {.column width="70%"}
+
+::: {#fig-template}
+
+![](figures/hamlyn-workshop-2025.png){fig-align=center}
+
+Participants of our 2025 event, [details here](https://www.hamlynsymposium.org/events/healing-through-collaboration-open-source-software-in-surgical-biomedical-and-ai-technologies/)
+:::
+
+:::
+
+::::
+
+::: {.notes}
+Speaker notes go here.
+:::
+
+
+
 
 
 <!-- *********************** NEW SLIDE *********************** -->
@@ -186,7 +291,7 @@ High-performance networking and shared platforms make cross-department
 and cross-institution collaboration practical and repeatable.
 :::
 
-* From Training to Innovation   
+* A Testbed for Research, Training, and Innovation
     * ::: {style="font-size: 60%;"}
 The testbed supports skills transfer, research experimentation, and 
 the rapid development of new robotics workflows.
@@ -222,7 +327,7 @@ expand research use cases, and deploy models beyond a single institution.
 
 
 <!-- *********************** NEW SLIDE *********************** -->
-## Acknowledgements
+## Thank You to UCL colleagues. Let's Connect!
 
 * UCL CEGE: UCL Civil, Environmental and Geomatic Engineering:    
 [Mickey Li](https://github.com/mhl787156), 
@@ -230,20 +335,22 @@ expand research use cases, and deploy models beyond a single institution.
 
 
 * UCL ARC: UCL Advanced Research Computing Centre:    
+[Marlon Wijeyasinghe](https://github.com/mwij02), 
+[James Legg](https://github.com/cjlegg), 
 [Mack Nixon](https://github.com/TOADD), 
 [Mahmoud Abdelrazek](https://github.com/TOADD), 
 [Sunny Park](https://github.com/TOADD), 
 [Emily Dubrovska](https://github.com/pineapple-cat), 
 [Yagmur Ozdemir](https://github.com/yidilozdemir), 
-[Marlon Wijeyasinghe](https://github.com/mwij02), 
 [Ruaridh Gollifer](https://github.com/ruaridhg), 
-[James Legg](https://github.com/cjlegg), 
 [Samantha Ahern](https://github.com/quirksahern), 
 [Miguel Xochicale](https://github.com/mxochicale), 
 [James Hetherington](https://github.com/jamespjh) 
 
 	* Unified-AI team: Andrew Esterson and Sylvie Ramos
 	* Condenser team: Sam Reece and Brian Maher
+
+* Get in touch! GitHub: [https://github.com/mxochicale](https://github.com/mxochicale)
 
 ::: {style="font-size: 40%;"}
 :::
@@ -260,50 +367,6 @@ expand research use cases, and deploy models beyond a single institution.
 ::: {.notes}
   Notes goes here
 :::
-
-<!-- *********************** NEW SLIDE *********************** -->
-## Demos: IsaacSim
-
-::: {#fig-template}
-
-![](figures/ezgif-4fa230460975b3.gif){fig-align=center}
-
-IsaacSim IDE with robot simple key control
-:::
-
-::: {.notes}
-Speaker notes go here.
-:::
-
-
-<!-- *********************** NEW SLIDE *********************** -->
-## Action mechanisms of Embodied AI
-
-::: {#fig-template}
-
-![](figures/mechanisms-embodiedAI-liu2025.svg){fig-align=center}
-
-Fig 15 from **Liu et al. 2025** _Neural Brain: A Neuroscience-inspired Framework for Embodied Agents_ [arXiv preprint: 2505.07634](https://arxiv.org/abs/2505.07634)
-:::
-
-
-
-<!-- *********************** NEW SLIDE *********************** -->
-## Multimodal Sensing
-
-::: {#fig-template}
-
-![](figures/multimodal-sensing-liu2025.svg){fig-align=center}
-
-Fig 11 from **Liu et al. 2025** _Neural Brain: A Neuroscience-inspired Framework for Embodied Agents_ [arXiv preprint: 2505.07634](https://arxiv.org/abs/2505.07634)
-
-:::
-
-::: {.notes}
-Speaker notes go here.
-Getting started documentation provide with a range of links to setup, use, run and debug application including github workflow. 
-:::
-
 
 
 
