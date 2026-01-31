@@ -268,7 +268,7 @@ Neuroscience-inspired Framework for Embodied Agents* [arXiv preprint:
 
 <img src="figures/hamlyn-workshop-2025.png" data-fig-align="center" />
 
-Figure 8: Participants of our 2025 event with [details
+Figure 8: Participants of our 2025 event, [details
 here](https://www.hamlynsymposium.org/events/healing-through-collaboration-open-source-software-in-surgical-biomedical-and-ai-technologies/)
 
 </div>
